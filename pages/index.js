@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to Kitified, Brian!
+          Welcome to Kitified!
         </h1>
 
         <p>This is the site for Kit Martin, coming soon.</p>
