@@ -4,16 +4,16 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Welcome to Kitified!</title>
+        <title>kitified</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to Kitified!
+          kitified.dev
         </h1>
 
-        <p>This is the site for Kit Martin, coming soon.</p>
+        <p>coming soon</p>
       </main>
 
       <footer>
