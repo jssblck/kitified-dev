@@ -1,5 +1,5 @@
 import '../styles/app.css'
 
-export default function App({ Component, pageProps }) {
+export default function KitifiedApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
