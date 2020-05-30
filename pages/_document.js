@@ -12,7 +12,7 @@ export default class MyDocument extends Document {
         <Head>
           <link rel="stylesheet" href="https://rsms.me/inter/inter.css"/>
         </Head>
-        <body>
+        <body className="bg-gray-200 container mx-auto p-12">
           <Main />
           <NextScript />
         </body>
